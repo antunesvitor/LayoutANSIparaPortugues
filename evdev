@@ -90,18 +90,18 @@ default xkb_keycodes "evdev" {
 	<FK11> = 95;
 	<FK12> = 96;
 
-	<PRSC> = 107;
+	//<PRSC> = 107;
 	// <SYRQ> = 107;
 	<SCLK> = 78;
 	<PAUS> = 127;
 	// <BRK> = 419;
 
-	<INS> = 118;
+	<INS> = 112;
 	<HOME> = 110;
-	<PGUP> = 112;
-	<DELE> = 119;
+	<PGUP> = 107;
+	<DELE> = 117;
 	<END> = 115;
-	<PGDN> = 117;
+	<PGDN> = 119;
 
 	<UP> = 111;
 	<LEFT> = 113;
