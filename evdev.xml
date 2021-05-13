@@ -1384,6 +1384,12 @@
         </variant>
         <variant>
           <configItem>
+            <name>ansi-pt</name>
+            <description>English (US ANSI p/ pt)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>colemak</name>
             <description>English (Colemak)</description>
           </configItem>
